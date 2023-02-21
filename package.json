@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "allInstall": "pnpm install",
     "build:wisemap": "gulp -f packages/wise-map-plus/script/build/index.ts",
     "publish:wisemap": "gulp -f packages/wise-map-plus/script/publish/index.ts"
   },
