@@ -1,0 +1,28 @@
+{
+  "name": "wise-map-plus",
+  "version": "1.0.2",
+  "main": "./lib/index.js",
+  "module": "./es/index.mjs",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "wise-map-plus",
+    "wise-map Vue3组件库"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "author": "CharmingZhang",
+  "license": "ISC",
+  "description": "",
+  "typings": "./lib/index.d.ts",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ewithome/wise-map-plus"
+  }
+}

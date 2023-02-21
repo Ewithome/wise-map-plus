@@ -1,0 +1,16 @@
+{
+  "name": "@zz/wise-map-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zz/zz3d": "workspace:^1.0.0"
+  }
+}
